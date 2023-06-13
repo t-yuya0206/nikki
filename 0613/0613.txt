@@ -1,6 +1,17 @@
 池田
+いけだです
 井上
+井上 
+眠たい
+
 小橋
+今日はバイト辛い
 田中
+aaaaaaaa
 東郷
+<<<<<<< HEAD
 平松 efdfsdfsdfsfsgdfjhsdgfjhsfdsdsjeryatweikdfj
+=======
+お腹すいた
+平松
+>>>>>>> fec3ac16d390b051cee51f906fa4fcf84bc4b518

@@ -7,9 +7,6 @@
 田中
 aaaaaaaa
 東郷
-<<<<<<< HEAD
-平松 efdfsdfsdfsfsgdfjhsdgfjhsfdsdsjeryatweikdfj
-=======
 お腹すいた
 平松
->>>>>>> fec3ac16d390b051cee51f906fa4fcf84bc4b518
+ああああ
